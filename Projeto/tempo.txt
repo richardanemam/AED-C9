@@ -1,0 +1,495 @@
+==== Heap Sort ====
+Tamanho: 10000 e semente: 4
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 4
+7 milisegundo(os)
+
+Tamanho: 90000 e semente: 4
+22 milisegundo(os)
+
+Tamanho: 270000 e semente: 4
+79 milisegundo(os)
+
+Tamanho: 810000 e semente: 4
+300 milisegundo(os)
+
+Tamanho: 2430000 e semente: 4
+1152 milisegundo(os)
+
+Tamanho: 7290000 e semente: 4
+4589 milisegundo(os)
+
+Tamanho: 21870000 e semente: 4
+22182 milisegundo(os)
+
+Tamanho: 65610000 e semente: 4
+82434 milisegundo(os)
+
+Tamanho: 10000 e semente: 81
+2 milisegundo(os)
+
+Tamanho: 30000 e semente: 81
+7 milisegundo(os)
+
+Tamanho: 90000 e semente: 81
+23 milisegundo(os)
+
+Tamanho: 270000 e semente: 81
+84 milisegundo(os)
+
+Tamanho: 810000 e semente: 81
+269 milisegundo(os)
+
+Tamanho: 2430000 e semente: 81
+1049 milisegundo(os)
+
+Tamanho: 7290000 e semente: 81
+4303 milisegundo(os)
+
+Tamanho: 21870000 e semente: 81
+17389 milisegundo(os)
+
+Tamanho: 65610000 e semente: 81
+75367 milisegundo(os)
+
+Tamanho: 10000 e semente: 151
+2 milisegundo(os)
+
+Tamanho: 30000 e semente: 151
+6 milisegundo(os)
+
+Tamanho: 90000 e semente: 151
+22 milisegundo(os)
+
+Tamanho: 270000 e semente: 151
+81 milisegundo(os)
+
+Tamanho: 810000 e semente: 151
+277 milisegundo(os)
+
+Tamanho: 2430000 e semente: 151
+1246 milisegundo(os)
+
+Tamanho: 7290000 e semente: 151
+5376 milisegundo(os)
+
+Tamanho: 21870000 e semente: 151
+18526 milisegundo(os)
+
+Tamanho: 65610000 e semente: 151
+81544 milisegundo(os)
+
+Tamanho: 10000 e semente: 1601
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 1601
+7 milisegundo(os)
+
+Tamanho: 90000 e semente: 1601
+28 milisegundo(os)
+
+Tamanho: 270000 e semente: 1601
+86 milisegundo(os)
+
+Tamanho: 810000 e semente: 1601
+295 milisegundo(os)
+
+Tamanho: 2430000 e semente: 1601
+1187 milisegundo(os)
+
+Tamanho: 7290000 e semente: 1601
+4847 milisegundo(os)
+
+Tamanho: 21870000 e semente: 1601
+18385 milisegundo(os)
+
+Tamanho: 65610000 e semente: 1601
+102118 milisegundo(os)
+
+Tamanho: 10000 e semente: 2307
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 2307
+6 milisegundo(os)
+
+Tamanho: 90000 e semente: 2307
+24 milisegundo(os)
+
+Tamanho: 270000 e semente: 2307
+76 milisegundo(os)
+
+Tamanho: 810000 e semente: 2307
+300 milisegundo(os)
+
+Tamanho: 2430000 e semente: 2307
+1192 milisegundo(os)
+
+Tamanho: 7290000 e semente: 2307
+5425 milisegundo(os)
+
+Tamanho: 21870000 e semente: 2307
+23844 milisegundo(os)
+
+Tamanho: 65610000 e semente: 2307
+89201 milisegundo(os)
+
+Tamanho: 10000 e semente: 4207
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 4207
+6 milisegundo(os)
+
+Tamanho: 90000 e semente: 4207
+21 milisegundo(os)
+
+Tamanho: 270000 e semente: 4207
+79 milisegundo(os)
+
+Tamanho: 810000 e semente: 4207
+308 milisegundo(os)
+
+Tamanho: 2430000 e semente: 4207
+1168 milisegundo(os)
+
+Tamanho: 7290000 e semente: 4207
+4898 milisegundo(os)
+
+Tamanho: 21870000 e semente: 4207
+21636 milisegundo(os)
+
+Tamanho: 65610000 e semente: 4207
+86635 milisegundo(os)
+
+==== Heap Sort ====
+
+==== Quick Sort ====
+Tamanho: 10000 e semente: 4
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 4
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 4
+13 milisegundo(os)
+
+Tamanho: 270000 e semente: 4
+45 milisegundo(os)
+
+Tamanho: 810000 e semente: 4
+173 milisegundo(os)
+
+Tamanho: 2430000 e semente: 4
+545 milisegundo(os)
+
+Tamanho: 7290000 e semente: 4
+1708 milisegundo(os)
+
+Tamanho: 21870000 e semente: 4
+5814 milisegundo(os)
+
+Tamanho: 65610000 e semente: 4
+45879 milisegundo(os)
+
+Tamanho: 10000 e semente: 81
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 81
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 81
+13 milisegundo(os)
+
+Tamanho: 270000 e semente: 81
+49 milisegundo(os)
+
+Tamanho: 810000 e semente: 81
+161 milisegundo(os)
+
+Tamanho: 2430000 e semente: 81
+559 milisegundo(os)
+
+Tamanho: 7290000 e semente: 81
+1794 milisegundo(os)
+
+Tamanho: 21870000 e semente: 81
+6310 milisegundo(os)
+
+Tamanho: 65610000 e semente: 81
+25604 milisegundo(os)
+
+Tamanho: 10000 e semente: 151
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 151
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 151
+15 milisegundo(os)
+
+Tamanho: 270000 e semente: 151
+58 milisegundo(os)
+
+Tamanho: 810000 e semente: 151
+180 milisegundo(os)
+
+Tamanho: 2430000 e semente: 151
+564 milisegundo(os)
+
+Tamanho: 7290000 e semente: 151
+1785 milisegundo(os)
+
+Tamanho: 21870000 e semente: 151
+5659 milisegundo(os)
+
+Tamanho: 65610000 e semente: 151
+25396 milisegundo(os)
+
+Tamanho: 10000 e semente: 1601
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 1601
+5 milisegundo(os)
+
+Tamanho: 90000 e semente: 1601
+17 milisegundo(os)
+
+Tamanho: 270000 e semente: 1601
+57 milisegundo(os)
+
+Tamanho: 810000 e semente: 1601
+186 milisegundo(os)
+
+Tamanho: 2430000 e semente: 1601
+592 milisegundo(os)
+
+Tamanho: 7290000 e semente: 1601
+1785 milisegundo(os)
+
+Tamanho: 21870000 e semente: 1601
+6320 milisegundo(os)
+
+Tamanho: 65610000 e semente: 1601
+33645 milisegundo(os)
+
+Tamanho: 10000 e semente: 2307
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 2307
+5 milisegundo(os)
+
+Tamanho: 90000 e semente: 2307
+18 milisegundo(os)
+
+Tamanho: 270000 e semente: 2307
+48 milisegundo(os)
+
+Tamanho: 810000 e semente: 2307
+197 milisegundo(os)
+
+Tamanho: 2430000 e semente: 2307
+648 milisegundo(os)
+
+Tamanho: 7290000 e semente: 2307
+2092 milisegundo(os)
+
+Tamanho: 21870000 e semente: 2307
+5898 milisegundo(os)
+
+Tamanho: 65610000 e semente: 2307
+31846 milisegundo(os)
+
+Tamanho: 10000 e semente: 4207
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 4207
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 4207
+17 milisegundo(os)
+
+Tamanho: 270000 e semente: 4207
+48 milisegundo(os)
+
+Tamanho: 810000 e semente: 4207
+167 milisegundo(os)
+
+Tamanho: 2430000 e semente: 4207
+531 milisegundo(os)
+
+Tamanho: 7290000 e semente: 4207
+1724 milisegundo(os)
+
+Tamanho: 21870000 e semente: 4207
+5749 milisegundo(os)
+
+Tamanho: 65610000 e semente: 4207
+35075 milisegundo(os)
+
+==== Quick Sort ====
+
+==== Sort ====
+Tamanho: 10000 e semente: 4
+2 milisegundo(os)
+
+Tamanho: 30000 e semente: 4
+5 milisegundo(os)
+
+Tamanho: 90000 e semente: 4
+15 milisegundo(os)
+
+Tamanho: 270000 e semente: 4
+51 milisegundo(os)
+
+Tamanho: 810000 e semente: 4
+169 milisegundo(os)
+
+Tamanho: 2430000 e semente: 4
+575 milisegundo(os)
+
+Tamanho: 7290000 e semente: 4
+1834 milisegundo(os)
+
+Tamanho: 21870000 e semente: 4
+5725 milisegundo(os)
+
+Tamanho: 65610000 e semente: 4
+17776 milisegundo(os)
+
+Tamanho: 10000 e semente: 81
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 81
+5 milisegundo(os)
+
+Tamanho: 90000 e semente: 81
+16 milisegundo(os)
+
+Tamanho: 270000 e semente: 81
+53 milisegundo(os)
+
+Tamanho: 810000 e semente: 81
+179 milisegundo(os)
+
+Tamanho: 2430000 e semente: 81
+553 milisegundo(os)
+
+Tamanho: 7290000 e semente: 81
+1758 milisegundo(os)
+
+Tamanho: 21870000 e semente: 81
+5749 milisegundo(os)
+
+Tamanho: 65610000 e semente: 81
+18900 milisegundo(os)
+
+Tamanho: 10000 e semente: 151
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 151
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 151
+15 milisegundo(os)
+
+Tamanho: 270000 e semente: 151
+50 milisegundo(os)
+
+Tamanho: 810000 e semente: 151
+169 milisegundo(os)
+
+Tamanho: 2430000 e semente: 151
+570 milisegundo(os)
+
+Tamanho: 7290000 e semente: 151
+1833 milisegundo(os)
+
+Tamanho: 21870000 e semente: 151
+5788 milisegundo(os)
+
+Tamanho: 65610000 e semente: 151
+20070 milisegundo(os)
+
+Tamanho: 10000 e semente: 1601
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 1601
+5 milisegundo(os)
+
+Tamanho: 90000 e semente: 1601
+16 milisegundo(os)
+
+Tamanho: 270000 e semente: 1601
+53 milisegundo(os)
+
+Tamanho: 810000 e semente: 1601
+192 milisegundo(os)
+
+Tamanho: 2430000 e semente: 1601
+624 milisegundo(os)
+
+Tamanho: 7290000 e semente: 1601
+1937 milisegundo(os)
+
+Tamanho: 21870000 e semente: 1601
+6095 milisegundo(os)
+
+Tamanho: 65610000 e semente: 1601
+18619 milisegundo(os)
+
+Tamanho: 10000 e semente: 2307
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 2307
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 2307
+16 milisegundo(os)
+
+Tamanho: 270000 e semente: 2307
+58 milisegundo(os)
+
+Tamanho: 810000 e semente: 2307
+180 milisegundo(os)
+
+Tamanho: 2430000 e semente: 2307
+570 milisegundo(os)
+
+Tamanho: 7290000 e semente: 2307
+1753 milisegundo(os)
+
+Tamanho: 21870000 e semente: 2307
+5530 milisegundo(os)
+
+Tamanho: 65610000 e semente: 2307
+18034 milisegundo(os)
+
+Tamanho: 10000 e semente: 4207
+1 milisegundo(os)
+
+Tamanho: 30000 e semente: 4207
+4 milisegundo(os)
+
+Tamanho: 90000 e semente: 4207
+15 milisegundo(os)
+
+Tamanho: 270000 e semente: 4207
+51 milisegundo(os)
+
+Tamanho: 810000 e semente: 4207
+165 milisegundo(os)
+
+Tamanho: 2430000 e semente: 4207
+566 milisegundo(os)
+
+Tamanho: 7290000 e semente: 4207
+1786 milisegundo(os)
+
+Tamanho: 21870000 e semente: 4207
+5576 milisegundo(os)
+
+Tamanho: 65610000 e semente: 4207
+18037 milisegundo(os)
+
+==== Sort ====
+
